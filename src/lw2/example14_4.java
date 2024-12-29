@@ -9,7 +9,7 @@ public class example14_4 {
         int number = in.nextInt();
         if ( number >=5 && number <= 10 ) {
             System.out.println("Число " + number + " входит в диапазон от 5 до 10 включительно");
-        }
+        } else System.out.println("Число " + number + "не  входит в диапазон от 5 до 10 включительно");
 
     }
 }
