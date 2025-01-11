@@ -8,9 +8,10 @@ public class timus_2066 {
         int a = in.nextInt();
         int b = in.nextInt();
         int c = in.nextInt();
-        int min = 0;
-        int opt = 0;
-        int max = 0;
-
+        if(b== 0 || b==1|| c==1){
+            System.out.println(a-b-c);
+        } else {
+            System.out.println(a-b*c);
+        }
     }
 }

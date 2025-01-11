@@ -6,7 +6,7 @@ public class example14_8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите строку для шифровки: ");
-        String string = in.nextLine();
+        String string = in.next();
         System.out.print("Введите ключ: ");
         int shift = in.nextInt();
         String encryptText = getEncryptString(string, shift);
@@ -16,7 +16,7 @@ public class example14_8 {
         String answer = "";
         System.out.println("Расшифровать сообщение?");
         while (check){
-            answer = in.nextLine();
+            answer = in.next();
             if(answer.equals("y")){
                 encryptText = getEncryptString(encryptText, -shift);
                 System.out.println("Расшифрованное сообщение: ");
