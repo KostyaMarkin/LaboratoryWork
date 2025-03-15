@@ -6,7 +6,7 @@ public class example14_8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите строку для шифровки: ");
-        String string = in.next();
+        String string = in.nextLine();
         System.out.print("Введите ключ: ");
         int shift = in.nextInt();
         String encryptText = getEncryptString(string, shift);
