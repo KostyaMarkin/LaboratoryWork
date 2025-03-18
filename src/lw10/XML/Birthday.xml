@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Birthday>
+    <people>
+        <FIO>Кирилов Олег Александрович</FIO>
+        <dateBirthday>
+            <Day>24</Day>
+            <Month>02</Month>
+            <Year>2002</Year>
+        </dateBirthday>
+    </people>
+    <people>
+        <FIO>Филипов Владимир Игнатьевич</FIO>
+        <dateBirthday>
+            <Day>22</Day>
+            <Month>12</Month>
+            <Year>1995</Year>
+        </dateBirthday>
+    </people>
+</Birthday>
