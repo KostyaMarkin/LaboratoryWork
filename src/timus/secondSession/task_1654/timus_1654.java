@@ -1,4 +1,4 @@
-package timus.task_1654;
+package timus.secondSession.task_1654;
 
 import java.io.PrintStream;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package timus.task_2023;
+package timus.secondSession.task_2023;
 
 import java.io.PrintStream;
 import java.util.Arrays;

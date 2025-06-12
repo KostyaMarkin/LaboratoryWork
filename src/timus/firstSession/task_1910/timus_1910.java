@@ -1,4 +1,4 @@
-package timus.task_1910;
+package timus.firstSession.task_1910;
 
 import java.io.*;
 import java.util.Arrays;

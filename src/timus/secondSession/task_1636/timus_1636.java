@@ -1,4 +1,4 @@
-package timus.task_1636;
+package timus.secondSession.task_1636;
 
 import java.io.PrintStream;
 import java.util.Scanner;

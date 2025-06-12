@@ -1,4 +1,4 @@
-package timus.task_1567;
+package timus.secondSession.task_1567;
 
 import java.io.PrintStream;
 import java.util.Hashtable;

@@ -1,4 +1,4 @@
-package timus.task_1025;
+package timus.secondSession.task_1025;
 
 import java.io.PrintStream;
 import java.util.Arrays;

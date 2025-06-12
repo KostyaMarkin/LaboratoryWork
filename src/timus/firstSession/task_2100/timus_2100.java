@@ -1,4 +1,4 @@
-package timus.task_2100;
+package timus.firstSession.task_2100;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

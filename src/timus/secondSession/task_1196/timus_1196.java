@@ -1,4 +1,4 @@
-package timus.task_1196;
+package timus.secondSession.task_1196;
 
 import java.io.*;
 import java.util.HashSet;

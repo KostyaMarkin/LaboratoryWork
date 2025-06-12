@@ -1,4 +1,4 @@
-package timus.task_1496;
+package timus.secondSession.task_1496;
 
 import java.io.*;
 import java.util.Hashtable;
