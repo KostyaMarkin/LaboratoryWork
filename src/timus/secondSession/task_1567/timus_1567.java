@@ -15,7 +15,7 @@ public class timus_1567 {
 
             int n = 0;
             for (int i = 0; i < chr.length(); ++i) {
-                weight.put(new Character(chr.charAt(i)), new Integer((n++ % 3) + 1));
+                weight.put(chr.charAt(i), (n++ % 3) + 1);
             }
 
             weight.put('.', 1); weight.put(',', 2); weight.put('!', 3);
@@ -25,7 +25,7 @@ public class timus_1567 {
 
             int cost = 0;
             for (int i = 0; i < str.length(); ++i) {
-                cost += weight.get(new Character(str.charAt(i)));
+                cost += weight.get(str.charAt(i));
             }
 
             outFile.println(cost);
